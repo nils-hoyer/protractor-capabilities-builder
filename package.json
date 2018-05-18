@@ -1,0 +1,21 @@
+{
+  "name": "protractor-capabilities-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nils-hoyer/protractor-capabilities-builder.git"
+  },
+  "keywords": [
+    "capabilities",
+    "protractor",
+    "testing"
+  ],
+  "author": "nils.hoyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nils-hoyer/protractor-capabilities-builder/issues"
+  },
+  "homepage": "https://github.com/nils-hoyer/protractor-capabilities-builder#readme"
+}
