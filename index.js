@@ -31,7 +31,6 @@ const CapabilityBuilder = (commonCapabilities = defaultCommonCapabilities) => {
 
     capabilities.forEach(function(capabilities) {
         capabilities['name'] = getCapabilityName(capabilities);
-        console.log(capabilities['name']);
         for (let i in commonCapabilities) {
             capabilities[i] = capabilities[i] || commonCapabilities[i];
         }
